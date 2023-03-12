@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--uses Linear Layout ViewGroup to display all child views -->
+<!--Added a background image pizza_background-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
@@ -12,8 +13,9 @@
     android:paddingTop="16dp"
     android:background="@drawable/pizza_background"
     tools:context="com.zybooks.pizzaparty.MainActivity">
-
-<!--Text "Number of people"24sp -->
+    <!--the "Extract string resource" functionality of Android Studio is used to create string
+    resources for all strings used in android:hint and android:text attribute-->
+    <!--Text "Number of people"24sp -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -77,6 +79,7 @@
         android:textSize="24sp"/>
 
     <!-- calculate button-->
+    <!--Style added to calculate button mentioned in styles.xml file-->
     <Button
         android:id="@+id/calc_button"
         android:text="@string/calculate"
