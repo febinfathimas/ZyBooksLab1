@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This file contains dimension values used throughout the app's design. -->
+<!--This file contains dimension values used throughout the design of app. -->
 <resources>
     <dimen name="label_text_size">30sp</dimen>
 </resources>

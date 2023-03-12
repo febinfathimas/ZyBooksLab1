@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!--This file contains themes used throughout the app's UI.-->
+    <!--This file contains themes used throughout the UI of pizza party app-->
     <!-- Base application theme. -->
     <style name="Theme.PizzaParty" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->

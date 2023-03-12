@@ -13,7 +13,7 @@
     android:paddingTop="16dp"
     android:background="@drawable/pizza_background"
     tools:context="com.zybooks.pizzaparty.MainActivity">
-    <!--the "Extract string resource" functionality of Android Studio is used to create string
+    <!--the "Extract string resource" functionality of Android Studio IDE is used to create string
     resources for all strings used in android:hint and android:text attribute-->
     <!--Text "Number of people"24sp -->
     <TextView

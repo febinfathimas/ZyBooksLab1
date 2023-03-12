@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <!--This file contains styles used throughout the app's UI.-->
+    <!--This file contains styles used throughout the UI of pizza party app-->
 <resources>
     <style name="CalcButton">
         <item name="android:textSize">24sp</item>
