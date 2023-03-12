@@ -1,4 +1,4 @@
-<!--This file contains string values used throughout the UI and functionality of the pizza party app.. -->
+<!--This file contains string values used throughout the UI and functionality of the pizza party .. -->
 <resources>
     <string name="app_name">Pizza Party</string>
     <string name="number_of_people">Number of people?</string>
